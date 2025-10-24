@@ -1,0 +1,13 @@
+DirectoryIndex public/index.php
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Allow direct access to the public/ folder
+  RewriteRule ^public/ - [L]
+
+  # If the request is not a real file or directory, route to public/index.php
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . public/index.php [L]
+</IfModule>
