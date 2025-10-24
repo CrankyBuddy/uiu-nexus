@@ -33,22 +33,24 @@ Quick start instructions for running this PHP project locally (XAMPP / Windows).
 
 - The password for every user is "password"
 - The users:
-   -admin1@uiu.ac.bd — admin
-   -admin2@uiu.ac.bd — admin
-   -alice.student@uiu.ac.bd — student
-   -chris.student@uiu.ac.bd — student
-   -nina.student@uiu.ac.bd — student
-   -jamal.student@uiu.ac.bd — student
-   -leena.student@uiu.ac.bd — student
-   -omar.student@uiu.ac.bd — student
-   -fatima.student@uiu.ac.bd — student
-   -bob.alumni@uiu.ac.bd — alumni
-   -diana.alumni@uiu.ac.bd — alumni
-   -karim.alumni@uiu.ac.bd — alumni
-   -sara.alumni@uiu.ac.bd — alumni
-   -rachel.recruiter@acme.example — recruiter
-   -victor.hr@globex.example — recruiter
-   -beta.hr@beta.example — recruiter
+  ```
+   admin1@uiu.ac.bd — admin
+   admin2@uiu.ac.bd — admin
+   alice.student@uiu.ac.bd — student
+   chris.student@uiu.ac.bd — student
+   nina.student@uiu.ac.bd — student
+   jamal.student@uiu.ac.bd — student
+   leena.student@uiu.ac.bd — student
+   omar.student@uiu.ac.bd — student
+   fatima.student@uiu.ac.bd — student
+   bob.alumni@uiu.ac.bd — alumni
+   diana.alumni@uiu.ac.bd — alumni
+   karim.alumni@uiu.ac.bd — alumni
+   sara.alumni@uiu.ac.bd — alumni
+   rachel.recruiter@acme.example — recruiter
+   victor.hr@globex.example — recruiter
+   beta.hr@beta.example — recruiter
+  ```
 
 ## Users / Admin
 
