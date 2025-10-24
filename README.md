@@ -1,3 +1,12 @@
+## 👥 Team Members
+
+| Name | GitHub Profile |
+|------|----------------|
+| Chowdhury Naqib Bin Ershad | [CrankyBuddy](https://github.com/Crankybuddy) |
+| Hirock Jerom Rozario | [hrozario2330363](https://github.com/hrozario2330363) |
+| Md. Rahadul Islam | [mislam2330364](https://github.com/mislam2330364) |
+| Abdul Gofran Emon | [GofranEmonKhan](https://github.com/GofranEmonKhan) |
+
 # UIU Nexus – Smart Alumni & Career Connection Platform
 
 **UIU Nexus** is an integrated digital platform designed to connect **students, alumni, and recruiters** of **United International University (UIU)** within a single ecosystem. It serves as a **career development and community engagement hub**, promoting mentorship, collaboration, and professional growth.
