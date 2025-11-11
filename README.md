@@ -140,28 +140,6 @@ For more details about the system and features, inspect the code under `app/View
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/uiu-nexus.git
-   ```
-2. Navigate to the project directory:
-
-   ```bash
-   cd uiu-nexus
-   ```
-3. Set up a local server (XAMPP, WAMP, or LAMP).
-4. Import the `database.sql` file into MySQL.
-5. Configure `config.php` with your database credentials.
-6. Access the application in your browser:
-
-   ```
-   http://localhost/uiu-nexus/public
-   ```
-
----
 
 ## Usage
 
