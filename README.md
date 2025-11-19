@@ -43,7 +43,7 @@ Quick start instructions for running this PHP project locally (XAMPP / Windows).
 - Using XAMPP:
   - Start Apache and MySQL from the XAMPP Control Panel.
   - Open the app in a browser:
-    - http://localhost/uiu-nexus/
+    - http://localhost/uiu-nexus/public/
 
 ## Login
 
